@@ -78,6 +78,7 @@ The screen is a 2.8" TFT display with resistive touch.
 
 <a href="https://ibb.co/kHBFzzD"><img src="https://i.ibb.co/w0g188Q/IMG-0233.jpg" alt="IMG-0233" border="0" /></a>
 <a href="https://ibb.co/z7WZHN8"><img src="https://i.ibb.co/xfK683m/IMG-0231.jpg" alt="IMG-0231" border="0" /></a>
+<img src="https://i.ibb.co/K9NzjK0/Screenshot-10.png" alt="Screenshot-10" border="0">
 
 # Screensaver
 * If the device is not used for a period of 2 minutes or more a screen saver will be enabled. It is a black screen with date and time.
