@@ -68,7 +68,7 @@ The screen is a 2.8" TFT display with resistive touch.
 * Each time a temperature is taken the ok button (tick) is pressed to temporarily save the reading. 
 * If a mistake is made the cancel button (x) can be pressed to delete the last reading.
 * The color of the tires on screen will change to indicate the temperature that has been taken.
-* The delta of each tire, and the average temperatures of the front, real, left, and right sides of the car are also calculated and shown on screen.
+* The delta of each tire (green), and the average temperatures of the front, real, left, and right sides of the car (orange) are also calculated and shown on screen.
 * The values will remain unless the device is turned off, even if you leave the page to use other functions.
 * The delete button (trashcan) will delete all temporarily saved values.
 * The save button (floppy disc) will open the file directory.
