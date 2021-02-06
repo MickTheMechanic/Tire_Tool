@@ -1,5 +1,6 @@
 # Tire Tool
 ## An open-source datalogging tire pyrometer with built in thermal camera and tire pressure gauge
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
 <a href="https://ibb.co/xzqxwv3"><img src="https://i.ibb.co/gtZkQ16/Screenshot-3.png" alt="Screenshot-3" border="0" /></a>
