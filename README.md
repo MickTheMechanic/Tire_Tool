@@ -6,7 +6,7 @@
 <a href="https://ibb.co/xzqxwv3"><img src="https://i.ibb.co/gtZkQ16/Screenshot-3.png" alt="Screenshot-3" border="0" /></a>
 <a href="https://ibb.co/5BzPQxz"><img src="https://i.ibb.co/f4Ks3GK/IMG-0333.jpg" alt="IMG-0333" border="0" /></a>
 
-The GUI was developed using the GUI-Slice library and builder. The GUI-Slice project file is included so changed to the GUI can be easily made as needed.
+The GUI was developed using the [GUI-Slice library](https://github.com/ImpulseAdventure/GUIslice) and [builder](https://github.com/ImpulseAdventure/GUIslice/wiki/GUIslice-Builder). The GUI-Slice project file is included so changed to the GUI can be easily made as needed.
 
 This project is not for the faint hearted, alot of technical knowlage is needed to complete this build. 
 
